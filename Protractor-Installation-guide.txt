@@ -1,0 +1,14 @@
+Protractor Tool (Downloads and Installation)
+
+1. NPM(node.js) download and install,
+2. Protractor installation,
+3. JDK installation,
+4. Webdriver manager update,  (i.e webdriver-manager update)
+5. Start WebDriver manager from command line, (webdriver-manager start)
+6. Visual Studio Code download and install,
+7. Create a protractor_workspace,
+8. Run npm init at above path,
+9. Add libs for protracto and jasmine etc.,
+
+
+http://www.way2automation.com/protractor/protractor-tutorials/protractor-angularjs-training.html
