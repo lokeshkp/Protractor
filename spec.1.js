@@ -14,6 +14,10 @@ describe('Enter name Feature',function(){
         
         // Assertion
         expect(text.getText()).toEqual('Hello Lokesh!');
+
+        element(by.xpath("//h1[@class='ng-binding']")).getText().then(function(text){
+            console.log("Result:"+text);
+        });
     });
 });
 
